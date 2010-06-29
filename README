@@ -1,0 +1,2 @@
+sudo launchctl load /Library/LaunchDaemons/org.nginx.nginx.plist
+sudo launchctl start org.nginx.nginx
